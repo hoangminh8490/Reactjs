@@ -1,10 +1,12 @@
 import ExampleFunction from "./ExampleFunction";
 
 function App() {
+
   return (
     <>
-        learn reactjs
+        Lamearn React Js
     < ExampleFunction />
+    <App /> 
     </>
   );
 }
